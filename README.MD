@@ -13,11 +13,11 @@ Download the weights.npz file from [here](https://drive.google.com/file/d/0B-MtV
 1. Create an agora.io account 
 2. 
 -  Sign-up and login [here](https://dashboard.agora.io).
--  Navigate to the 'project management' in the dashboard.
+-  Navigate to the 'project management' tab in the dashboard.
 -  Create a new project with a name of your choice.
 -  Procure the app-id by copying it onto your clipboard and pasting it somewhere accessible from where you will later access while           developing the code.
 
-3. Install all the dependencies given in the Requirements.txt using:
+3. Install all the dependencies given in requirements.txt using:
    ## windows:
    ```bash
      pip install -r requirements.txt
@@ -30,7 +30,7 @@ Download the weights.npz file from [here](https://drive.google.com/file/d/0B-MtV
 
 5. Download chromedriver.exe and weights.npz
 
-6. Open the detect.py
+6. Open detect.py in sublime or any compatible text editor of your choice.
   - paste the app-id and link to the chromedriver.exe as directed on line 20 of the code and a channel name on line 21.
   - paste the link to a high resolution(approx 2000x1500) image on line 30
   - give links to in.png on line 161 and weights.npz on line 164 as directed in the code.

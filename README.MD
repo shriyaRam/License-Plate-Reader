@@ -12,8 +12,8 @@ Download the weights.npz file from [here](https://drive.google.com/file/d/0B-MtV
 # Guide to a Quick Start:
 1. Create an agora.io account 
 2. 
-  i) Sign-up and login [here](https://dashboard.agora.io)
-  ii) Navigate to the 'project management' in the dashboard
+  i) Sign-up and login [here](https://dashboard.agora.io).
+  ii) Navigate to the 'project management' in the dashboard.
   iii) Create a new project with a name of your choice.
   iv) Procure the app-id by copying it onto your clipboard and pasting it somewhere accessible from where you will later access while           developing the code.
 3. Install all the dependencies given in the Requirements.txt using:
@@ -23,7 +23,7 @@ Download the weights.npz file from [here](https://drive.google.com/file/d/0B-MtV
    ```
    ## Linux:
     ```bash
-     sudo pip install -r requirements.txt
+      sudo pip install -r requirements.txt
    ```
 4. Download a zip file of this repository
 5. Download chromedriver.exe and weights.npz

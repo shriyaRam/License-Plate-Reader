@@ -12,10 +12,10 @@ Download the weights.npz file from [here](https://drive.google.com/file/d/0B-MtV
 # Guide to a Quick Start:
 1. Create an agora.io account 
 2. 
-i) Sign-up and login [here](https://dashboard.agora.io).
-ii) Navigate to the 'project management' in the dashboard.
-iii) Create a new project with a name of your choice.
-iv) Procure the app-id by copying it onto your clipboard and pasting it somewhere accessible from where you will later access while           developing the code.
+-  Sign-up and login [here](https://dashboard.agora.io).
+-  Navigate to the 'project management' in the dashboard.
+-  Create a new project with a name of your choice.
+-  Procure the app-id by copying it onto your clipboard and pasting it somewhere accessible from where you will later access while           developing the code.
 
 3. Install all the dependencies given in the Requirements.txt using:
    ## windows:
@@ -31,14 +31,14 @@ iv) Procure the app-id by copying it onto your clipboard and pasting it somewher
 5. Download chromedriver.exe and weights.npz
 
 6. Open the detect.py
-  i)paste the app-id and link to the chromedriver.exe as directed on line 20 of the code and a channel name on line 21.
-  ii)paste the link to a high resolution(approx 2000x1500) image on line 30
-  iii)give links to in.png on line 161 and weights.npz on line 164 as directed in the code.
-  iv)give a link to out.png on line 194
+  - paste the app-id and link to the chromedriver.exe as directed on line 20 of the code and a channel name on line 21.
+  - paste the link to a high resolution(approx 2000x1500) image on line 30
+  - give links to in.png on line 161 and weights.npz on line 164 as directed in the code.
+  - give a link to out.png on line 194
   
 7. Go [here](https://sidsharma27.github.io)
-  i)paste app-id and channel name in the respective input boxes  on sender and reciever side.
-  ii)click on join to activate call on sender and receiver side.
+  - paste app-id and channel name in the respective input boxes  on sender and reciever side.
+  - click on join to activate call on sender and receiver side.
 
 8. Execute detect.py from the master folder on the terminal 
 

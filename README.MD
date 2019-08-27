@@ -2,7 +2,7 @@
 
 A number plate reading system built over the live stream environment of Agora.io
 
-Download the weights.npz file from [here].(https://drive.google.com/file/d/0B-MtVXQMUxQiZElfSy1ON09QQ0U/view?usp=sharing) and paste it to the main directory.This file contains a pretrained model. 
+Download the weights.npz file from [here](https://drive.google.com/file/d/0B-MtVXQMUxQiZElfSy1ON09QQ0U/view?usp=sharing). and paste it to the main directory.This file contains a pretrained model. 
 
 # Prerequisites
 1. All python libraries given in requirements.txt
@@ -11,7 +11,8 @@ Download the weights.npz file from [here].(https://drive.google.com/file/d/0B-Mt
 
 # Guide to a Quick Start:
 1. Create an agora.io account 
-2.i) Sign-up and login [here](https://dashboard.agora.io)
+2. 
+  i) Sign-up and login [here](https://dashboard.agora.io)
   ii) Navigate to the 'project management' in the dashboard
   iii) Create a new project with a name of your choice.
   iv) Procure the app-id by copying it onto your clipboard and pasting it somewhere accessible from where you will later access while           developing the code.

@@ -96,3 +96,6 @@ webencodings==0.5.1
 websockets==6.0
 Werkzeug==0.12.2
 widgetsnbextension==3.0.3
+
+
+Download the weights.npz file from here(https://drive.google.com/file/d/0B-MtVXQMUxQiZElfSy1ON09QQ0U/view?usp=sharing) and paste it to the main directory.This file contains a pretrained model. 
